@@ -1,0 +1,28 @@
+{"frames": {
+
+"gameover-0.png":
+{
+	"frame": {"x":0,"y":0,"w":57,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":43},
+	"sourceSize": {"w":57,"h":43}
+},
+"gameover-1.png":
+{
+	"frame": {"x":57,"y":0,"w":57,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":43},
+	"sourceSize": {"w":57,"h":43}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameover.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":43},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f44e93647f3d33d6cff79fd5a995796:19bce39d1bad6a639689af4832aaf5b5:7ac94ad4b69b76fc7998c80955f4839b$"
+}
+}

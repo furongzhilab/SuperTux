@@ -1,0 +1,76 @@
+{"frames": {
+
+"tuxwalk1.png":
+{
+	"frame": {"x":0,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk2.png":
+{
+	"frame": {"x":38,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk3.png":
+{
+	"frame": {"x":76,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk4.png":
+{
+	"frame": {"x":0,"y":38,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk5.png":
+{
+	"frame": {"x":38,"y":38,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk6.png":
+{
+	"frame": {"x":76,"y":38,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk7.png":
+{
+	"frame": {"x":0,"y":76,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"tuxwalk8.png":
+{
+	"frame": {"x":38,"y":76,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walk_front.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c89c16f5186d5ca7f23eb5587e5cc26f:3f2a4aaf363d338db20a8413b4dc1fec:12f0b7c1da503345ecd98f6f24a97681$"
+}
+}

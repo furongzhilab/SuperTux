@@ -1,0 +1,8 @@
+{
+    "title": "SuperTux-01",
+    "identifier": "com.yourcompany.wizardEVP.SuperTux01",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}

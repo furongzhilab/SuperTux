@@ -1,0 +1,36 @@
+{"frames": {
+
+"sport-left-0.png":
+{
+	"frame": {"x":0,"y":0,"w":38,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+	"sourceSize": {"w":38,"h":36}
+},
+"sport-left-1.png":
+{
+	"frame": {"x":38,"y":0,"w":38,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+	"sourceSize": {"w":38,"h":36}
+},
+"sport-left-2.png":
+{
+	"frame": {"x":76,"y":0,"w":38,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+	"sourceSize": {"w":38,"h":36}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bounceball.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":36},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:382303200b55675168b456f5f1310a06:8d5815a1eff9a2199bb9ff29017bb415:f8b4c6a7ae3d47a19e03135465e50cf5$"
+}
+}

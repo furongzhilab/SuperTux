@@ -1,0 +1,36 @@
+{"frames": {
+
+"left-0.png":
+{
+	"frame": {"x":0,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"left-1.png":
+{
+	"frame": {"x":38,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"left-2.png":
+{
+	"frame": {"x":76,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "red_bounceball.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":38},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:35852b7f30a766fed0744147e43c7ad0:6c088bdaebb18e178785af6c9d2e9a0a:3f31415453c606e77a2ad7cc1fa1fee5$"
+}
+}

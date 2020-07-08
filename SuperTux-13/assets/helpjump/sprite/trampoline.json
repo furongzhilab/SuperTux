@@ -1,0 +1,68 @@
+{"frames": {
+
+"trampoline1-0.png":
+{
+	"frame": {"x":0,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+},
+"trampoline1-1.png":
+{
+	"frame": {"x":36,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+},
+"trampoline1-2.png":
+{
+	"frame": {"x":72,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+},
+"trampoline1-3.png":
+{
+	"frame": {"x":108,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+},
+"trampoline1-4.png":
+{
+	"frame": {"x":144,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+},
+"trampoline1-5.png":
+{
+	"frame": {"x":180,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+},
+"trampoline1-6.png":
+{
+	"frame": {"x":216,"y":0,"w":36,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":64},
+	"sourceSize": {"w":36,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "trampoline.png",
+	"format": "RGBA8888",
+	"size": {"w":252,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c24d87e1002fc704fb82d3918675f966:08501900a32d3750943f889b635cc1f4:a7499b2c7d82ca523c204b1a81cd3b29$"
+}
+}

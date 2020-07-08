@@ -1,0 +1,28 @@
+{"frames": {
+
+"left-0.png":
+{
+	"frame": {"x":0,"y":0,"w":40,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":43},
+	"sourceSize": {"w":40,"h":43}
+},
+"left-1.png":
+{
+	"frame": {"x":40,"y":0,"w":40,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":43},
+	"sourceSize": {"w":40,"h":43}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rebot.png",
+	"format": "RGBA8888",
+	"size": {"w":80,"h":43},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdca218773c964e9e8ac011214262f2a:f8d7be0343fc60e85d1a622ce19c630b:26de03819a4bcf8dde9e2566daad79bd$"
+}
+}
